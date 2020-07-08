@@ -16,7 +16,6 @@ DECEMBER: 'December'
 ETERNITY: 'forever'
 
 #The reasons for stopping the server.
-
 SERVER_CLOSED_MESSAGE: 'The server is disabled, please log in later'
 SERVER_NOT_PERMS_MESSAGE: 'You dont have access to this server'
 SERVER_RELOAD_MESSAGE: 'The server is restarting, please log in later'
