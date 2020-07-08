@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@CloudrixInc 
-stressedme
-/
-cloudrix
-1
-01
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-cloudrix/localization/ru.yml
-@stressedme
-stressedme правки
-Latest commit b335f97 23 hours ago
- History
- 3 contributors
-@stressedme@KE3NNY@Qesti
-770 lines (658 sloc)  33.9 KB
-  
 LANGUAGE_CHANGE: 'Вы изменили язык на §b%s'
 
 JANUARY: 'Январь'
@@ -47,7 +16,6 @@ DECEMBER: 'Декабрь'
 ETERNITY: 'вечность'
 
 #Причины остановки работы сервера.
-
 SERVER_CLOSED_MESSAGE: 'Сервер отключен, зайдите позже'
 SERVER_NOT_PERMS_MESSAGE: 'У вас нет доступа к этому серверу'
 SERVER_RELOAD_MESSAGE: 'Сервер перезагружается, зайдите позже'
@@ -799,15 +767,3 @@ KICKED_FROM_SERVER: 'Вы были кикнуты с сервера §b%s §rп�
 
 STAFFCHAT_MSG: '§9Чат персонала §8| §f%s §8▸ §f%s'
 DONATECHAT_MSG: '§bЧат донатеров §8| §f%s §8▸ §f%s'
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
