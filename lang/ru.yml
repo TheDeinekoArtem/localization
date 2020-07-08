@@ -16,7 +16,6 @@ DECEMBER: 'Декабрь'
 ETERNITY: 'вечность'
 
 #Причины остановки работы сервера.
-
 SERVER_CLOSED_MESSAGE: 'Сервер отключен, зайдите позже'
 SERVER_NOT_PERMS_MESSAGE: 'У вас нет доступа к этому серверу'
 SERVER_RELOAD_MESSAGE: 'Сервер перезагружается, зайдите позже'
