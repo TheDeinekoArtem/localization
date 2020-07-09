@@ -552,6 +552,16 @@ GAME_ARENA_START: 'Игра начнётся через §b%s §r%s'
 GAME_WINNER: 'Победитель'
 GAME_REWARD: 'Ваши награды'
 
+GAME_KIT_ITEM_NAME: '§bВыбор набора'
+GAME_KIT_ITEM_LORE:
+  - '§7Нажмите сюда, чтобы'
+  - '§7выбрать набор'
+
+GAME_LEAVE_ITEM_NAME: '§cПокинуть игру'
+GAME_LEAVE_ITEM_LORE:
+  - '§7Нажмите сюда, чтобы'
+  - '§7покинуть игру'
+
 DAMAGE_CAUSE_SUICIDE: '%s §rпокончил жизнь самоубийством..'
 DAMAGE_CAUSE_KILLED_OF_PLAYER: '%s §rбыл убит игроком %s'
 DAMAGE_CAUSE_BOW_TO: '%s §rзастрелен игроком %s'
