@@ -529,6 +529,10 @@ GAME_ARENA_JOIN: '%s §rприсоединился к игре [§b%s§r/§b%s§
 GAME_ARENA_QUIT: '%s §rпокинул игру [§b%s§r/§b%s§r]'
 GAME_ARENA_START: 'Игра начнётся через §b%s §r%s'
 
+TELEPORTATION_ITEM_NAME: 'Телепортация к игрокам'
+TELEPORTATION_ITEM_LORE:
+  - ''
+
 GAME_WINNER: 'Победитель'
 GAME_REWARD: 'Ваши награды'
 
