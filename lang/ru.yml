@@ -407,7 +407,7 @@ CRASH_PLAYER: 'Вы крашнули игрока %s'
 LEVEL_COMMAND_1: 'У вас §b%s §rуровень'
 LEVEL_COMMAND_2: 'До следующего уровня необходимо §b%s XP'
 
-BALANCE: 'На вашем аккаунте §e%s §r%s и §b%s §r%s'
+BALANCE: 'На вашем аккаунте §6%s §r%s и §b%s §r%s'
 
 LIST_CMD: 'На сервере §b%s §r%s: %s'
 
