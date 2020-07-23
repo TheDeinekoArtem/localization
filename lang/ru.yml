@@ -430,12 +430,13 @@ BAN_INFO_MESSAGES:
   - ' §7- §fДлительность: §7%s'
   - ' §7- §fДата блокировки: §7%s'
 
-BAN_FORMAT: '/ban <ник игрока> <правило>'
-TEMPBAN_FORMAT: '/tempban <ник игрока> <время> <правило>'
-TEMPMUTE_FORMAT: '/tempmute <ник игрока> <время> <правило>'
+BAN_FORMAT: '/ban <ник игрока> <причина>'
+TEMPBAN_FORMAT: '/tempban <ник игрока> <время> <причина>'
+TEMPMUTE_FORMAT: '/tempmute <ник игрока> <время> <причина>'
+MUTE_FORMAT: '/mute <ник игрока> <причина>'
 BANINFO_FORMAT: '/baninfo <ник игрока>'
 UNBAN_FORMAT: '/unban <ник игрока>'
-KICK_FORMAT: '/kick <ник игрока> <правило>'
+KICK_FORMAT: '/kick <ник игрока> <причина>'
 
 CRASH_ERROR_YOU: 'Ошибка, вы не можешь крашнуть самого себя'
 CRASH_PLAYER: 'Вы крашнули игрока %s'
