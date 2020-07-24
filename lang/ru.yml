@@ -564,7 +564,7 @@ ONLINE_ALL_PLAYERS_ONLINE: 'Общий онлайн проекта §b%s §r%s'
 
 GAME_ARENA_JOIN: '%s §rприсоединился к игре (§a%s§r/§a%s§r)'
 GAME_ARENA_QUIT: '%s §rпокинул игру (§c%s§r/§a%s§r)'
-GAME_ARENA_START: 'Игра начнётся через §b%s §r%s'
+GAME_ARENA_START: 'Игра начнётся через §a%s §r%s'
 
 TELEPORTATION_ITEM_NAME: 'Телепортация к игрокам'
 TELEPORTATION_ITEM_LORE:
@@ -709,23 +709,23 @@ DONATE_HOLO:
   - 'Подробную информацию о привилегиях'
   - 'можно найти с помощью команды §b/donate'
 
-DONATE_IRON_NAME: '§rПривилегия §7IRON'
+DONATE_IRON_NAME: '§7Привилегия §7§lIRON'
 DONATE_IRON_LORE:
  - '§7описание'
  
-DONATE_CRYSTAL_NAME: '§7Привилегия §bCRYSTAL'
+DONATE_CRYSTAL_NAME: '§7Привилегия §b§lCRYSTAL'
 DONATE_CRYSTAL_LORE:
  - '§7описание'
  
-DONATE_RUBY_NAME: '§7Привилегия §cRUBY'
+DONATE_RUBY_NAME: '§7Привилегия §c§lRUBY'
 DONATE_RUBY_LORE:
  - '§7описание'
  
-DONATE_TITAN_NAME: '§7Привилегия §9TITAN'
+DONATE_TITAN_NAME: '§7Привилегия §9§lTITAN'
 DONATE_TITAN_LORE:
  - '§7описание'
  
-DONATE_LEGEND_NAME: '§7Привилегия §dLEGEND'
+DONATE_LEGEND_NAME: '§7Привилегия §d§lLEGEND'
 DONATE_LEGEND_LORE:
  - '§7описание'
 
