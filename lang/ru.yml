@@ -562,8 +562,8 @@ REPLY_HOVER_MESSAGE:
   - '§rигроку %s §rв лс'
 ONLINE_ALL_PLAYERS_ONLINE: 'Общий онлайн проекта §b%s §r%s'
 
-GAME_ARENA_JOIN: '%s §rприсоединился к игре [§b%s§r/§b%s§r]'
-GAME_ARENA_QUIT: '%s §rпокинул игру [§b%s§r/§b%s§r]'
+GAME_ARENA_JOIN: '%s §rприсоединился к игре (§a%s§r/§a%s§r)'
+GAME_ARENA_QUIT: '%s §rпокинул игру (§c%s§r/§a%s§r)'
 GAME_ARENA_START: 'Игра начнётся через §b%s §r%s'
 
 TELEPORTATION_ITEM_NAME: 'Телепортация к игрокам'
