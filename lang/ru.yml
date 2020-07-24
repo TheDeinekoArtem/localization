@@ -709,25 +709,25 @@ DONATE_HOLO:
   - 'Подробную информацию о привилегиях'
   - 'можно найти с помощью команды §b/donate'
 
-DONATE_IRON_NAME: '§rПривилегия §7§lIRON'
+DONATE_IRON_NAME: '§rПривилегия §7IRON'
 DONATE_IRON_LORE:
- - ''
+ - '§7описание'
  
-DONATE_CRYSTAL_NAME: '§rПривилегия §b§lCRYSTAL'
+DONATE_CRYSTAL_NAME: '§7Привилегия §bCRYSTAL'
 DONATE_CRYSTAL_LORE:
- - ''
+ - '§7описание'
  
-DONATE_RUBY_NAME: '§rПривилегия §c§lRUBY'
+DONATE_RUBY_NAME: '§7Привилегия §cRUBY'
 DONATE_RUBY_LORE:
- - ''
+ - '§7описание'
  
-DONATE_TITAN_NAME: '§rПривилегия §9§lTITAN'
+DONATE_TITAN_NAME: '§7Привилегия §9TITAN'
 DONATE_TITAN_LORE:
- - ''
+ - '§7описание'
  
-DONATE_LEGEND_NAME: '§rПривилегия §d§lLEGEND'
+DONATE_LEGEND_NAME: '§7Привилегия §dLEGEND'
 DONATE_LEGEND_LORE:
- - ''
+ - '§7описание'
 
 DAILY_REWARD_KEY: 'Ежедневные награды'
 WEEKLY_REWARD_KEY: 'Еженедельные награды'
