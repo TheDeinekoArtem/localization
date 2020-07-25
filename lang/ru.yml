@@ -728,6 +728,10 @@ DONATE_TITAN_LORE:
 DONATE_LEGEND_NAME: '§7Привилегия §d§lLEGEND'
 DONATE_LEGEND_LORE:
  - '§7описание'
+ 
+DONATE_HELP_ITEM_NAME: '§aДополнительная информация'
+DONATE_HELP_ITEM_LORE: 
+ - ''
 
 DAILY_REWARD_KEY: 'Ежедневные награды'
 WEEKLY_REWARD_KEY: 'Еженедельные награды'
