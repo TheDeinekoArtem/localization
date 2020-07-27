@@ -583,10 +583,10 @@ GAME_LEAVE_ITEM_LORE:
   - '§7Нажмите сюда, чтобы'
   - '§7покинуть игру'
 
-DAMAGE_CAUSE_SUCIDE: '%s§ §rпокончил жизнь самоубийством..'
+DAMAGE_CAUSE_SUCIDE: '%s §rпокончил жизнь самоубийством..'
 DAMAGE_CAUSE_EXPLOSION_TO: '%s §rбыл взорван игроком %s'
 DAMAGE_CAUSE_EXPLOSION: '%s §rвзорвался'
-DAMAGE_CAUSE_CACTUS_TO: '%s ♀rнаткнулся на кактус, спасаясь от %s'
+DAMAGE_CAUSE_CACTUS_TO: '%s §rнаткнулся на кактус, спасаясь от %s'
 DAMAGE_CAUSE_CACTUS: '%s §rисколот до смерти'
 DAMAGE_CAUSE_SWIM_TO: '%s §rутонул, спасаясь от %s'
 DAMAGE_CAUSE_SWIM: '%s §rутонул'
