@@ -207,6 +207,14 @@ PREFIX_CHANGE_LORE2:
  - ''
  - '§eВыбран'
 
+GAME_COSMETIC_0_NAME: 'Нотки'
+GAME_COSMETIC_0_LORE:
+ - ''
+ 
+GAME_COSMETIC_1_NAME: 'Сердечки'
+GAME_COSMETIC_1_LORE:
+ - ''
+
 FRIEND_ADD_FORMAT: '/friend add <ник игрока>'
 FRIEND_REMOVE_FORMAT: '/friend remove <ник игрока>'
 FRIEND_ACCEPT_FORMAT: '/friend accept <ник игрока>'
