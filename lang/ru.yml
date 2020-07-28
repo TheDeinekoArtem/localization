@@ -708,8 +708,8 @@ EFFECTS_DONATE_ONLY: '§7Бесплатно для %s'
 EFFECTS_GIVE_MONEY: '§7Цена: §6%s монет'
 EFFECTS_GIVE_CRYSTALS: '§7Цена: §b%s кристаллов'
 
-GAME_COSMETIC_135_NAME: 'Убийственная симфония'
-GAME_COSMETIC_135_LORE:
+GAME_COSMETIC_110_NAME: 'Убийственная симфония'
+GAME_COSMETIC_110_LORE:
 - '§7Всякий раз, когда вы убиваете игрока,'
 - '§7вы делаете это, под эффект музыкальных нот!'
 
