@@ -713,7 +713,7 @@ GAME_COSMETIC_135_LORE:
 - '§7Всякий раз, когда вы убиваете игрока,'
 - '§7вы делаете это, под эффект музыкальных нот!'
 
-GAME_COSMETIC_GUI_ARROW_NAME: 'Эффекты стрел'
+GAME_COSMETIC_GUI_ARROW_NAME: '§aЭффекты стрел'
 GAME_COSMETIC_GUI_ARROW_LORE:
 - ''
 - '§7Покупка и активация эффектов'
@@ -725,7 +725,7 @@ GAME_COSMETIC_GUI_ARROW_LORE:
 - ''
 - '§e▸ Нажмите, чтобы открыть меню'
 
-GAME_COSMETIC_GUI_KILL_EFFECT_NAME: 'Эффекты убийств'
+GAME_COSMETIC_GUI_KILL_EFFECT_NAME: '§aЭффекты убийств'
 GAME_COSMETIC_GUI_KILL_EFFECT_LORE:
 - ''
 - '§7Покупка и активация эффектов'
